@@ -8,6 +8,7 @@ body {
 .header,
 .marketing,
 .footer {
+  font-family: 'Roboto Slab', serif;
   padding-right: 15px;
   padding-left: 15px;
 }
@@ -80,6 +81,8 @@ body {
 
 .content {
   font-size: 1.25em;
+  font-family: 'Roboto Slab', serif;
+  line-height: 180%;
 }
 
 .name-font {
